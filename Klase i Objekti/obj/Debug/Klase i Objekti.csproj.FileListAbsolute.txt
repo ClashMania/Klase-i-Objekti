@@ -1,0 +1,8 @@
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\bin\Debug\Klase i Objekti.exe.config
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\bin\Debug\Klase i Objekti.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\bin\Debug\Klase i Objekti.pdb
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\obj\Debug\Klase i Objekti.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\obj\Debug\Klase i Objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\obj\Debug\Klase i Objekti.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\obj\Debug\Klase i Objekti.exe
+C:\Users\Ucenik\Documents\GabrielCondric\Klase i Objekti\obj\Debug\Klase i Objekti.pdb
